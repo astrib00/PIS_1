@@ -6,6 +6,9 @@ namespace PIS_1
 {
     class NewClass
     {
-
+        public void Funkcija() 
+        {
+            Console.WriteLine("Test test");
+        }
     }
 }
