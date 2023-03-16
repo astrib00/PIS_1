@@ -4,6 +4,7 @@ using System.Text;
 
 namespace PIS_1
 {
+    //Ovu promjenu je napravija kolaborator
     class NewClass
     {
         public void Funkcija() 
